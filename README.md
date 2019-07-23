@@ -6,5 +6,4 @@ PoC Cluster Hadoop
 #### Start Cluster
 ```console
 foo@bar:~$ ./start-cluster.sh
-foo
 ```
